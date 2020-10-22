@@ -1,0 +1,33 @@
+.avtr {
+    border-radius: 50%;
+    background-color: grey;
+    color: black;
+    margin-left: 4em;
+    opacity: 0.5;
+    height: 7em;
+    width: 7em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px;;
+}
+
+.des {
+    width: fit-content;
+    text-align: left;
+    border: 1px solid black;
+    padding: 3em;
+    text-align: left;
+    
+}
+
+.bord {
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+
+}
+
